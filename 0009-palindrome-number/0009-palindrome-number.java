@@ -7,7 +7,7 @@ class Solution {
         int num = x;
         int rev = 0;
 
-        while (num != 0) {
+        while (num != 0) {             // loop to reverse the number
             int digit = num % 10;
             rev = rev * 10 + digit;
             num = num / 10;
