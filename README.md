@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tirtha-Bhatta/DSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tirtha-Bhatta/DSA/tree/master/0049-group-anagrams) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tirtha-Bhatta/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Tirtha-Bhatta/DSA/tree/master/0283-move-zeroes) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Tirtha-Bhatta/DSA/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
