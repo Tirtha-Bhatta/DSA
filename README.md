@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tirtha-Bhatta/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Tirtha-Bhatta/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tirtha-Bhatta/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Tirtha-Bhatta/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Tirtha-Bhatta/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Tirtha-Bhatta/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Tirtha-Bhatta/DSA/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Tirtha-Bhatta/DSA/tree/master/0283-move-zeroes) |
 ## String
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tirtha-Bhatta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tirtha-Bhatta/DSA/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Tirtha-Bhatta/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Tirtha-Bhatta/DSA/tree/master/0217-contains-duplicate) |
 ## Sliding Window
 |  |
