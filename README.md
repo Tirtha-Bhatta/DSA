@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tirtha-Bhatta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Tirtha-Bhatta/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Tirtha-Bhatta/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tirtha-Bhatta/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tirtha-Bhatta/DSA/tree/master/0049-group-anagrams) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tirtha-Bhatta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Tirtha-Bhatta/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Tirtha-Bhatta/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Tirtha-Bhatta/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Tirtha-Bhatta/DSA/tree/master/0217-contains-duplicate) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tirtha-Bhatta/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tirtha-Bhatta/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tirtha-Bhatta/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Tirtha-Bhatta/DSA/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Tirtha-Bhatta/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
