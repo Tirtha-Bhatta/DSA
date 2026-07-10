@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tirtha-Bhatta/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Tirtha-Bhatta/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tirtha-Bhatta/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tirtha-Bhatta/DSA/tree/master/0015-3sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tirtha-Bhatta/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Tirtha-Bhatta/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Tirtha-Bhatta/DSA/tree/master/0175-combine-two-tables) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tirtha-Bhatta/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
